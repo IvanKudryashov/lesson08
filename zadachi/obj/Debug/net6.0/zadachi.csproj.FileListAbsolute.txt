@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\семинары С#\lesson08\zadachi\bin\Debug\net6.0\zadachi.exe
+C:\Users\1\Desktop\семинары С#\lesson08\zadachi\bin\Debug\net6.0\zadachi.deps.json
+C:\Users\1\Desktop\семинары С#\lesson08\zadachi\bin\Debug\net6.0\zadachi.runtimeconfig.json
+C:\Users\1\Desktop\семинары С#\lesson08\zadachi\bin\Debug\net6.0\zadachi.dll
+C:\Users\1\Desktop\семинары С#\lesson08\zadachi\bin\Debug\net6.0\zadachi.pdb
+C:\Users\1\Desktop\семинары С#\lesson08\zadachi\obj\Debug\net6.0\zadachi.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\семинары С#\lesson08\zadachi\obj\Debug\net6.0\zadachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\семинары С#\lesson08\zadachi\obj\Debug\net6.0\zadachi.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\семинары С#\lesson08\zadachi\obj\Debug\net6.0\zadachi.AssemblyInfo.cs
+C:\Users\1\Desktop\семинары С#\lesson08\zadachi\obj\Debug\net6.0\zadachi.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\семинары С#\lesson08\zadachi\obj\Debug\net6.0\zadachi.dll
+C:\Users\1\Desktop\семинары С#\lesson08\zadachi\obj\Debug\net6.0\refint\zadachi.dll
+C:\Users\1\Desktop\семинары С#\lesson08\zadachi\obj\Debug\net6.0\zadachi.pdb
+C:\Users\1\Desktop\семинары С#\lesson08\zadachi\obj\Debug\net6.0\zadachi.genruntimeconfig.cache
+C:\Users\1\Desktop\семинары С#\lesson08\zadachi\obj\Debug\net6.0\ref\zadachi.dll
